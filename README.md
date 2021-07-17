@@ -12,4 +12,4 @@
 
 ## Joke of the day
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23086375&?borderColor=%23F2FF49&?qColor=%23F2FF49&?aColor=%23FFF&?codeColor=%23FFF&?textColor=%23FFF)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23086375&?borderColor=%23FFF&?qColor=%23F2FF49&?aColor=%23FFF&?codeColor=%23FFF&?textColor=%23FFF)
