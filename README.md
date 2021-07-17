@@ -22,6 +22,12 @@ Info
 [![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks)](https://lucatanks.xyz)
 
 <details>
+  <summary>⏰ When I code</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
