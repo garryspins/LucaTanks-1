@@ -19,7 +19,7 @@ Info
 
 ### GitHub Statistics
 
-[![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks)](https://lucatanks.xyz)
+[![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks&theme=luca)](https://lucatanks.xyz)
 
 <details>
   <summary>⏰ When I code</summary>
