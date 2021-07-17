@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hi%20there,%20I'm%20Luca&width=400&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hi%20there,%20I'm%20Luca&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
 ## 📊 Statistics
 
