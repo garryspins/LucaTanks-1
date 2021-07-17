@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hi%20there,%20I'm%20Luca&width=1000&height=100)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners-lucatanks.vercel.app/api?type=typeWriter&text1=👋%20Hi%20there,%20I'm%20Luca&width=1000&height=200)](https://lucatanks.xyz)
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Website&up_color=green&up_message=Online&url=https%3A%2F%2Flucatanks.xyz)](https://lucatanks.xyz)
 ---
@@ -19,7 +19,7 @@ Info
 
 ### GitHub Statistics
 
-[![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks&theme=luca)](https://lucatanks.xyz)
+[![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks&theme=luca&show_icons=true)](https://lucatanks.xyz)
 
 <details>
   <summary>⏰ When I code</summary>
