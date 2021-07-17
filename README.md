@@ -21,32 +21,6 @@ Info
 
 [![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks&theme=luca&show_icons=true)](https://lucatanks.xyz)
 
-<details>
-  <summary>⏰ When I code</summary>
-  
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-🌆 Daytime    121 commits    ████████░░░░░░░░░░░░░░░░░   34.87% 
-🌃 Evening    138 commits    ██████████░░░░░░░░░░░░░░░   39.77% 
-🌙 Night      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.85%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
- Last Updated on 17/07/2021
-<!--END_SECTION:waka-->
-</details>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
