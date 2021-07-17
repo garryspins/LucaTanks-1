@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Luca
 
+## 📊 My GitHub Statistics
 
 ## 📊 My Weekly Breakdown
 <!--START_SECTION:waka-->
