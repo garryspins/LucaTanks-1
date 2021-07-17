@@ -23,6 +23,7 @@ Info
 
 <details>
   <summary>⏰ When I code</summary>
+  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,6 +50,7 @@ Info
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#33](https://github.com/tbdscripts/cosmo-issues/pull/33) in [tbdscripts/cosmo-issues](https://github.com/tbdscripts/cosmo-issues)
