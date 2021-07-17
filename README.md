@@ -10,6 +10,6 @@
 
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaTanks&?count_private=true&theme=yeblu&include_all_commits=true&custom_title=GitHub)](https://lucatanks.xyz)
 
-### Joke of the day
+## Joke of the day
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23086375&?borderColor=%23F2FF49&?qColor=%23F2FF49&?aColor=%23FFF&?codeColor=%23FFF&?textColor=%23FFF)
