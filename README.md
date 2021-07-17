@@ -1,7 +1,7 @@
-# Hi there, I'm Luca 👋
+# 👋 Hi there, I'm Luca
 
 
-## My Weekly Breakdown
+## 📊 My Weekly Breakdown
 <!--START_SECTION:waka-->
 ```text
 C#           2 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   47.22 % 
