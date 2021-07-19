@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a Discord Bot. 
 - 🌱 I’m learning C#. 
 - 💬 Ask me about tech, memes or anything. 
-- 😄 I'm looking to do more web development.  
+- 🧠 I'm looking to do more web development.  
 - 📫 Reach me at luca@lucatanks.xyz
 
 ## 🎧 Now Playing
