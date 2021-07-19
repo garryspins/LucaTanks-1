@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Website&up_color=green&up_message=Online&url=https%3A%2F%2Flucatanks.xyz)](https://lucatanks.xyz)
 ---
 
-Info
-Info
-Info
-Info
-Info
+- 🔭 I’m currently working on a Discord Bot. 
+- 🌱 I’m learning C#. 
+- 💬 Ask me about tech, memes or anything. 
+- 😄 I'm looking to do more web development.  
+- 📫 Reach me at luca@lucatanks.xyz
 
-## Now Playing
+## 🎧 Now Playing
 
 ## 📊 Statistics
 
