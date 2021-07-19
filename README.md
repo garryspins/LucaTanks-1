@@ -19,7 +19,7 @@ Info
 
 ### GitHub Statistics
 
-[![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks&theme=luca&show_icons=true)](https://lucatanks.xyz)
+[![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks&theme=luca&show_icons=true&count_private=true)](https://lucatanks.xyz)
 
 
 <details>
