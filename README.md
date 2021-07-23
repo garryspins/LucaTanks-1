@@ -11,16 +11,9 @@
 
 ## 🎧 Now Playing
 
-## 📊 Statistics
-
-### Weekly Breakdown
+## 📊 Weekly Breakdown
 
 [![WakaTime Statistics](https://luca-readme-stats.vercel.app/api/wakatime?username=LucaTanks&theme=luca&langs_count=5)](https://lucatanks.xyz)
-
-### GitHub Statistics
-
-[![GitHub Statistics](https://luca-readme-stats.vercel.app/api?username=LucaTanks&theme=luca&show_icons=true&count_private=true)](https://lucatanks.xyz)
-
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
