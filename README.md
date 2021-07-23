@@ -19,10 +19,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   <br/>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/FelixKLG/FelixKLG/pull/2) in [FelixKLG/FelixKLG](https://github.com/FelixKLG/FelixKLG)
-2. ❗️ Opened issue [#1](https://github.com/garryspins/gmod-test-stuff/issues/1) in [garryspins/gmod-test-stuff](https://github.com/garryspins/gmod-test-stuff)
-3. ❗️ Closed issue [#1004](https://github.com/anuraghazra/github-readme-stats/issues/1004) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 💪 Opened PR [#33](https://github.com/tbdscripts/cosmo-issues/pull/33) in [tbdscripts/cosmo-issues](https://github.com/tbdscripts/cosmo-issues)
-5. ❗️ Opened issue [#1070](https://github.com/everyday-as/gmodstore-issues/issues/1070) in [everyday-as/gmodstore-issues](https://github.com/everyday-as/gmodstore-issues)
+1. 💪 Opened PR [#1](https://github.com/harryy-0/hSpawn/pull/1) in [harryy-0/hSpawn](https://github.com/harryy-0/hSpawn)
+2. 💪 Opened PR [#1](https://github.com/garryspins/garryspins/pull/1) in [garryspins/garryspins](https://github.com/garryspins/garryspins)
+3. 💪 Opened PR [#2](https://github.com/FelixKLG/FelixKLG/pull/2) in [FelixKLG/FelixKLG](https://github.com/FelixKLG/FelixKLG)
+4. ❗️ Opened issue [#1](https://github.com/garryspins/gmod-test-stuff/issues/1) in [garryspins/gmod-test-stuff](https://github.com/garryspins/gmod-test-stuff)
+5. ❗️ Closed issue [#1004](https://github.com/anuraghazra/github-readme-stats/issues/1004) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 </details>
